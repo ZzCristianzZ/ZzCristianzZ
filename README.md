@@ -6,7 +6,7 @@
 
 - 💬 PREGUNTAME SOBRE **HTML, CSS, GITHUB, FUNDAMENTOS DE PROGRAMACION Y DESARROLLO WEB**
 
-- 📫 PUEDES CONTACTARME EN **Crifegomez@gmail.com**
+- 📫 PUEDES CONTACTARME EN **Crisfegomez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
