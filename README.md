@@ -1,4 +1,4 @@
-# ![banner](https://ibb.co/TPqtP8k)
+# ![banner](https://github.com/ZzCristianzZ/Hyperblog/blob/main/Amarillo%20y%20Negro%20Banner%20para%20YouTube.1png.png)
 
 
 - 🔭 ACTUALMENTE ME ENCUENTRO ESTUDIANDO LA RUTA **FULL STACK DEVELOPER CON JAVASCRIPT**
